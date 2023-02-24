@@ -48,10 +48,10 @@ meta_common_description: "Your meta description."
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  github: "OumaimaHourrane"
-  email: "oumaima.hourrane@gmail.com"
-  linkedin: "oumaima-hourrane"
-  twitter: "oum_hou"
+  - github: "OumaimaHourrane"
+  - email: "oumaima.hourrane@gmail.com"
+  - linkedin: "oumaima-hourrane"
+  - twitter: "oum_hou"
   #- mastodon: ""
   #- instagram: ""
   #- youtube: ""
