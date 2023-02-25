@@ -4,7 +4,7 @@ layout: home
 lng_pair: id_home
 
 # image for page specific usage
-img: ":home-heading.jpg"
+img: ":alina-grubnyak-ZiQkhI7417A-unsplash.jpg"
 # publish date (used for seo)
 # if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
@@ -37,9 +37,9 @@ img: ":home-heading.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+Hi, I am Oumaima. Welcome to my personal website!
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
+I am a recent PhD graduate with research interests in Deep Learning, Multilingual and Low-resourced Language Modelling, and Graph Neural Networks for Text. On this website, I aim to showcase my research experience in these areas and provide insight into my career aspirations.
 
-{{ website_info_text_second }}
+I believe that effective communication and collaboration are essential to advancing scientific progress. I am always eager to collaborate with other researchers and share knowledge and insights. If you are interested in discussing potential research collaborations or have any questions about my work, please feel free to contact me.
+
