@@ -36,5 +36,12 @@ icon: "fa fa-bath"
 #published: false
 ---
 
-My name is oumaima
+I am a recent PhD graduate with research interests in Deep Learning, Natural Language Processing, Low-resourced Language Modelling, Transfer Learning, and Graph Neural Networks for text. On this website, I aim to showcase my research experience in these areas and provide insight into my career aspirations.
+
+Throughout my academic career, I have been dedicated to advancing the field of NLP and developing new techniques to tackle real-world problems. Now, I am particularly interested in applying NLP to low-resourced languages and using machine learning to improve social welfare.
+
+I believe that effective communication and collaboration are essential to advancing scientific progress. I am always eager to collaborate with other researchers and share knowledge and insights. If you are interested in discussing potential research collaborations or have any questions about my work, please feel free to contact me.
+
+Thank you for visiting my website, and I hope you enjoy exploring my research experience and interests.
+
 
