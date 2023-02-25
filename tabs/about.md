@@ -11,9 +11,9 @@ img: ":vd3y.jpg"
 
 # for override items in _data/lang/[language].yml
 title: NLP Girl
-#button_name: "My button"
+button_name: "hhh"
 # for override side_and_top_nav_buttons in _data/conf/main.yml
-icon: "fa fa-bath"
+#icon: "fa fa-bath"
 
 # seo
 # if not specified, date will be used.
