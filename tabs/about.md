@@ -35,8 +35,9 @@ meta_description: "Hi! I'm Oumaima."
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
+Hi, I am Oumaima :wave:. Welcome to my personal website!
 
-I am a recent PhD graduate with research interests in Deep Learning, Natural Language Processing, Low-resourced Language Modelling, Transfer Learning, and Graph Neural Networks for text. On this website, I aim to showcase my research experience in these areas and provide insight into my career aspirations.
+I am a recent PhD graduate with research interests in Deep Learning, Graph Neural Networks for Text, Multilingual and Low-resourced Language Modeling, and . On this website, I aim to showcase my research experience in these areas and provide insight into my career aspirations.
 
 Throughout my academic career, I have been dedicated to advancing the field of NLP and developing new techniques to tackle real-world problems. Now, I am particularly interested in applying NLP to low-resourced languages and using machine learning to improve social welfare.
 
