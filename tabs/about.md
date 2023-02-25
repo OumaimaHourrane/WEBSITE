@@ -35,18 +35,13 @@ meta_description: "Hi! I'm Oumaima."
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
-Hi, I am Oumaima. Welcome to my personal website!
 
-I am a recent PhD graduate with research interests in Deep Learning, Graph Neural Networks for Text, Multilingual and Low-resourced Language Modeling, and . On this website, I aim to showcase my research experience in these areas and provide insight into my career aspirations.
 
-Throughout my academic career, I have been dedicated to advancing the field of NLP and developing new techniques to tackle real-world problems. Now, I am particularly interested in applying NLP to low-resourced languages and using machine learning to improve social welfare.
+I am a Machine Learning and NLP researcher with a PhD in Computer Science from Hassan II University of Casablanca, Morocco. My research focuses on developing deep learning approaches to tackle various NLP tasks, including multilingual NLP tasks, Semantic Textual Similarity, Representation Learning, GNNs for text, Authorship Detection, Topic Modelling, and Low-resource language modelling.
 
-I believe that effective communication and collaboration are essential to advancing scientific progress. I am always eager to collaborate with other researchers and share knowledge and insights. If you are interested in discussing potential research collaborations or have any questions about my work, please feel free to contact me.
+My doctoral research involved proposing multiple approaches based on Deep Learning to detect paraphrastic and cross-lingual plagiarism. Through this work, I gained extensive experience in designing and implementing deep learning models, data preprocessing, and feature extraction. I also have experience in using various tools and technologies, including TensorFlow, Keras, PyTorch, and NLTK.
 
-Thank you for visiting my website, and I hope you enjoy exploring my research experience and interests.
+I am passionate about using NLP to improve social welfare, and I am constantly exploring new avenues to apply NLP to solve real-world problems. I am always eager to collaborate with other researchers and organizations to make meaningful contributions to the field of NLP.
 
-{%- include util/auto-content-generator.liquid -%}
-{{ Oumai }}
-
-{{ ouma }}
+Thank you for taking the time to visit my website, and please feel free to contact me if you have any questions or would like to discuss potential research collaborations.
 
