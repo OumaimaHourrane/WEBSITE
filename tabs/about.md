@@ -35,7 +35,7 @@ meta_description: "Hi! I'm Oumaima."
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
-Hi, I am Oumaima :wave: Welcome to my personal website!
+Hi, I am Oumaima. Welcome to my personal website!
 
 I am a recent PhD graduate with research interests in Deep Learning, Graph Neural Networks for Text, Multilingual and Low-resourced Language Modeling, and . On this website, I aim to showcase my research experience in these areas and provide insight into my career aspirations.
 
@@ -45,4 +45,8 @@ I believe that effective communication and collaboration are essential to advanc
 
 Thank you for visiting my website, and I hope you enjoy exploring my research experience and interests.
 
+{%- include util/auto-content-generator.liquid -%}
+{{ Oumai }}
+
+{{ ouma }}
 
