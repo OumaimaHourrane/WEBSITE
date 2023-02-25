@@ -13,7 +13,7 @@ img: ":vd3y.jpg"
 title: NLP Girl
 #button_name: "My button"
 # for override side_and_top_nav_buttons in _data/conf/main.yml
-#icon: "fa fa-bath"
+icon: "fa fa-bath"
 
 # seo
 # if not specified, date will be used.
@@ -36,6 +36,7 @@ title: NLP Girl
 #published: false
 ---
 
+My name is oumaima
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 {%- include util/auto-content-generator.liquid -%}
