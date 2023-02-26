@@ -61,7 +61,7 @@ page_data:
     - type: id_quote
       project_name: "Citations Mapping"
       project_excerpt: ""
-      img: ":project1_thumb.jpg"
+      img: ":ct.png"
       img_title: "img title5"
       date: "2021-08-20"
       post: |
