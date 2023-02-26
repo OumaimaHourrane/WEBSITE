@@ -27,7 +27,7 @@ page_data:
     - type: id_example
       project_name: "Cross-lingual Representation using the Graph-Transformer model"
       project_excerpt: ""
-      img: ":project1_thumb.jpg"
+      img: ":gt.png"
       img_title: "img title1"
       date: "2021-03-13"
       post: |
@@ -41,7 +41,7 @@ page_data:
     - type: id_picture
       project_name: "Document Representation using the Topic-Transformer model"
       project_excerpt: ""
-      img: ":project1_thumb.jpg"
+      img: ":framework.png"
       img_title: "img title3"
       date: "2021-05-27"
       post: |
@@ -51,7 +51,7 @@ page_data:
     - type: id_quote
       project_name: "Authorship Verification using Style Embedding model"
       project_excerpt: ""
-      img: ":project2_thumb.jpg"
+      img: ":arch.png"
       img_title: "img title4"
       date: "2021-06-08"
       post: |
