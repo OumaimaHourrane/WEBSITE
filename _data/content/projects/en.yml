@@ -38,7 +38,7 @@ page_data:
 
 
     # quote
-    - type: id_quote
+    - type: id_picture
       project_name: "Document Representation using the Topic-Transformer model"
       project_excerpt: ""
       img: ":project1_thumb.jpg"
