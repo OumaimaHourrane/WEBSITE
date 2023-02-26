@@ -9,7 +9,7 @@ lng_pair: id_projects
 
 # for override items in _data/lang/[language].yml
 #title: My title
-#button_name: "My button"
+button_name: "Research"
 # for override side_and_top_nav_buttons in _data/conf/main.yml
 #icon: "fa fa-bath"
 
@@ -31,5 +31,5 @@ image_lazy_loader_on: true
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-published: false
+#published: false
 ---
