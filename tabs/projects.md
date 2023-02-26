@@ -2,6 +2,7 @@
 layout: projects
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_projects
+permalink: "/projects/"
 
 # publish date (used for seo)
 # if not specified, site.time will be used.
@@ -11,7 +12,7 @@ lng_pair: id_projects
 #title: My title
 button_name: "Research"
 # for override side_and_top_nav_buttons in _data/conf/main.yml
-#icon: "fa fa-bath"
+icon: "fa fa-rocket"
 
 # seo
 # if not specified, date will be used.
