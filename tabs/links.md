@@ -31,7 +31,7 @@ lng_pair: id_links
 # exclude from search engines
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
-published: false
+# published: false
 
 
 # you can always move this content to _data/content/ folder
@@ -42,17 +42,20 @@ published: false
 page_data:
   main:
     header: "Links"
-    info: "Your Links page description."
+    info: "Things I find interesting and worth sharing. "
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "JekyII / Liquid"
+    - title: "AI Research"
       type: id_jekyiiliquid
       color: "gray"
-    - title: "Web Design"
+    - title: "Programming"
       type: id_webdesign
       color: "#F4A273"
-    - title: "Programming"
+    - title: "Art"
+      type: id_programming
+      color: "#62b462"
+    - title: "Science"
       type: id_programming
       color: "#62b462"
 
