@@ -37,7 +37,7 @@ img: ":halll.jpg"
 #published: false
 ---
 
-# Hi, I am Oumaima. Welcome to my personal website!
+# Hi, I am Oumaima.
 
 I am a recent PhD graduate with research interests in Deep Learning, Multilingual and Low-resourced Language Modelling, and Graph Neural Networks for Text. On this website, I aim to showcase my research experience in these areas and provide insight into my career aspirations.
 
