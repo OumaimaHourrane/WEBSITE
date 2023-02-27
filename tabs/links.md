@@ -63,7 +63,7 @@ page_data:
     -
     # Programming
     - type: id_programming
-      title: "
+      title: ""
       url: ""
       info: ""
 
