@@ -37,7 +37,7 @@ meta_description: "Hi! I'm Oumaima."
 ---
 
 
-I am a researcher in machine learning and natural language processing with a Doctorate in computer science from Morocco's Hassan II University in Casablanca. My research focuses on building and implemeting deep learning models to handle a variety of NLP problems, such as multilingual NLP tasks, semantic textual similarity, representation learning, GNNs for text, authorship detection, topic modelling, and low-resource language modelling.
+I am a researcher in machine learning and natural language processing with a Doctorate in computer science from Hassan II University of Casablanca. My research focuses on building and implemeting deep learning models to handle a variety of NLP problems, such as multilingual NLP tasks, semantic textual similarity, representation learning, GNNs for text, authorship detection, topic modelling, and low-resource language modelling.
 
 In my thesis, I proposed various methods based on Deep Learning to identify cross-lingual and paraphrastic plagiarism. I got extensive experience in feature engineering, data preparation, and deep learning model design and implementation. Also, I've used a variety of tools and technologies, including TensorFlow, Keras, PyTorch, and NLTK. 
 
