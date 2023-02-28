@@ -37,11 +37,9 @@ meta_description: "Hi! I'm Oumaima."
 ---
 
 
-I am a Machine Learning and NLP researcher with a PhD in Computer Science from Hassan II University of Casablanca, Morocco. My research focuses on developing deep learning approaches to tackle various NLP tasks, including multilingual NLP tasks, Semantic Textual Similarity, Representation Learning, GNNs for text, Authorship Detection, Topic Modelling, and Low-resource language modelling.
+I am a researcher in machine learning and natural language processing with a Doctorate in computer science from Morocco's Hassan II University in Casablanca. My research focuses on building and implemeting deep learning models to handle a variety of NLP problems, such as multilingual NLP tasks, semantic textual similarity, representation learning, GNNs for text, authorship detection, topic modelling, and low-resource language modelling.
 
-My doctoral research involved proposing multiple approaches based on Deep Learning to detect paraphrastic and cross-lingual plagiarism. Through this work, I gained extensive experience in designing and implementing deep learning models, data preprocessing, and feature extraction. I also have experience in using various tools and technologies, including TensorFlow, Keras, PyTorch, and NLTK.
+In my thesis, I proposed various methods based on Deep Learning to identify cross-lingual and paraphrastic plagiarism. I got extensive experience in feature engineering, data preparation, and deep learning model design and implementation. Also, I've used a variety of tools and technologies, including TensorFlow, Keras, PyTorch, and NLTK. 
 
-I am passionate about using NLP to improve social welfare, and I am constantly exploring new avenues to apply NLP to solve real-world problems. I am always eager to collaborate with other researchers and organizations to make meaningful contributions to the field of NLP.
-
-Thank you for taking the time to visit my website, and please feel free to contact me if you have any questions or would like to discuss potential research collaborations.
+I am passionate about using NLP for social good, and I am continually looking for new ways to use NLP to address pressing issues in the real world. I am always excited to work in collaboration with other researchers to advance the field of NLP. I appreciate you taking the time to visit my website, and if you have any questions or would want to talk about possible research collaborations, don't hesitate to get in touch with me :)
 
