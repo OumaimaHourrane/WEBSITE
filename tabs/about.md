@@ -43,7 +43,7 @@ I am a researcher in machine learning and natural language processing with a Doc
 In my thesis, I proposed various methods based on Deep Learning to identify cross-lingual and paraphrastic plagiarism. I got extensive experience in feature engineering, data preparation, and deep learning model design and implementation. Also, I've used a variety of tools and technologies, including TensorFlow, Keras, PyTorch, and NLTK. 
 
 I am passionate about using NLP for social good, and I am continually looking for new ways to use NLP to address pressing issues in the real world. I am always excited to work in collaboration with other researchers to advance the field of NLP. I appreciate you taking the time to visit my website, and if you have any questions or would want to talk about possible research collaborations, don't hesitate to get in touch with me :)
-## Research Interests:
+## Research Interests
 
 My research interests include but not limited to:
 + Natural Language Processing
